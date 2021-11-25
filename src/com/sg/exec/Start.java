@@ -9,6 +9,6 @@ public class Start {
         // un "main" épuré et minimaliste..
         Menu monMenu = new Menu();
         monMenu.gererMenu();
-        // TI350
+        // TI350 : modif en séance
     }
 }
